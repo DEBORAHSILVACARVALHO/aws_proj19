@@ -1,0 +1,8 @@
+.terraform
+.terraform.lock.hcl
+*.out
+*tfstate*
+.vscode
+*.txt
+
+hidden_workflows/
